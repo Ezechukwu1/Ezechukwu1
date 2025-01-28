@@ -25,7 +25,6 @@ Here are the technologies and tools I work with:
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React"/>
 </div>
----
 
 ## 🌐 Connect with Me  
 Feel free to reach out and connect with me on:  
