@@ -1,9 +1,5 @@
 # 🌟 Hi there, I'm Ezechukwu1! 👋  
 
-Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves creating scalable, efficient, and visually appealing web applications. 🚀  
-
----
-
 ## 👨‍💻 About Me  
 - 💻 I specialize in **PHP**, **Laravel**, **Tailwind CSS**, and **Bootstrap**.  
 - 🎨 Proficient in crafting responsive designs using **HTML5** and **CSS3**.  
@@ -16,10 +12,12 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves creat
 Here are the technologies and tools I work with:  
 
 ### Languages & Frameworks  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)  
+<div flex>
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
+</div>
 
 ### Frontend Tools  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)  
