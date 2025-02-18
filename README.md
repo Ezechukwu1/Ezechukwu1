@@ -1,4 +1,4 @@
-# 🌟 Hi there, I'm Ezechukwu1! 👋  
+# 🌟 Hi there, I'm Ezechukwu 👋  
 
 ## 👨‍💻 About Me  
 - 💻 I specialize in **PHP**, **Laravel**, **Tailwind CSS**, and **Bootstrap**.  
